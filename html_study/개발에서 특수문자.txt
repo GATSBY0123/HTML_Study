@@ -1,0 +1,21 @@
+!(느낌표) : 부정, 반대
+@(at) : ~에(위치)
+#(hash) : 다지다
+$(달러)
+%(퍼센트)  : 나머지
+^(hat) : 지수 2^10 = 1024
+&(ampersand) : 그리고 and
+*(asterisk) : 모든것
+() (괄호) : () 소괄호 {} 중괄호 [] 대괄호
+<>(꺽쇠)
+-(dash)
+_(underbar)
+=(equal) : 할당
+|(vertical-bar) : 또는 or
+/(slash)
+\(reversed slash)
+;(semi-colon) : end of a line
+:(colon)
+"(quote) : 인용
+,(comma)
+.(dot)
